@@ -1,6 +1,6 @@
 # 使い方
 
-** macOSの場合 **
+**macOSの場合**
 1. ターミナルで`./setup_laravel.sh`を実行する。
 2. `laravel/config/`の各ファイルに追記
     ```database.php
